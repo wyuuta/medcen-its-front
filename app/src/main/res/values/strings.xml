@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ITS Medical Center</string>
+    <string name="title_home">Home</string>
+    <string name="title_queue">Antrian</string>
+    <string name="title_profile">Profile</string>
+
+    <string name="poli_umum">Poli Umum</string>
+    <string name="poli_gigi">Poli Gigi</string>
+    <string name="poli_psikologi">Poli Psikologi</string>
+    <string name="estetiderma">Estetiderma</string>
+    <string name="bkia">BKIA</string>
+    <string name="ugd">UGD</string>
+
+    <string name="name">Nama:</string>
+    <string name="email">E-mail:</string>
+    <string name="birthday">Tanggal lahir:</string>
+    <string name="description">Keterangan:</string>
+
+    <string name="user_name">Joko Susilo</string>
+    <string name="user_email">joko.susilo@gmail.com</string>
+    <string name="user_birthday">15 Februari 1997</string>
+    <string name="user_description">11 November 2018\nPoli Umum - Dr. Imam Hasadi\nCheck up, batuk ringan\n</string>
+    <string name="title_activity_queue">QueueActivity</string>
+</resources>
